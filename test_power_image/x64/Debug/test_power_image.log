@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\vspro\test_power_image\test_power_image\源.cpp(41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vspro\test_power_image\test_power_image\源.cpp(104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test_power_image.vcxproj -> F:\VSPRO\test_power_image\x64\Debug\test_power_image.exe
